@@ -9,3 +9,6 @@ const removeUniqueEl = (arr) => {
 }
 
 console.log(removeUniqueEl(["a", "b", "a", "b", "c", "b"]))
+
+//i have to remove the duplicate el.
+//i have to read/write excel file using fs
